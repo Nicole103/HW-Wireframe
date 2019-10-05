@@ -1,1 +1,96 @@
 /* Homework 1 wireframe Stylesheet*/
+
+body {
+    position: relative;
+    margin:10px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background-color: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+header {
+    width: 660px;
+    padding: 20px;
+    margin: 10px auto;
+    background-color: #ebebeb;
+    text-align: center;
+    float: center;
+}
+
+nav {
+    width: 660px;
+    padding: 20px;
+    margin: 10px auto;
+    background-color: #ebebeb;
+    text-align: center;
+    float: center;  
+}
+
+div {
+    
+}
+section {
+    position: relative;
+    left:-140px;
+    width: 380px;
+    padding: 20px;
+    margin: 10px auto;
+    background-color: #ebebeb;
+    text-align: center;
+}
+
+article {
+    position: relative;
+    left:-10px;
+    width: 360px;
+    padding: 20px;
+    margin: 10px auto;
+    color: #ebebeb;
+    background-color: #777;
+    text-align: center;
+}
+
+h1 {
+    position: relative;
+    left:-5px;
+    width: 340px;
+    padding: 10px;
+    margin: 10px auto;
+    color: #777;
+    background-color: #ebebeb;
+    text-align: center;  
+}
+
+p {
+    position: relative;
+    left:-5px;
+    width: 340px;
+    padding: 10px;
+    margin: 10px auto;
+    color: #777;
+    background-color: #ebebeb;
+    text-align: center;  
+}
+
+Aside {
+    float: right;
+    position: relative;
+    right: 130px;
+    width: 230px;
+    height: 217px;
+    padding: 20px;
+    margin: 0px auto;
+    background-color: #ebebeb;
+    text-align: center;
+}
+
+footer {
+    width: 660px;
+    padding: 20px;
+    margin: 10px auto;
+    background-color: #ebebeb;
+    text-align: center;
+    float: center;
+}
